@@ -8,3 +8,6 @@ Tweet ID, Text, isRetweet,time, replies,retweets,likes,entries
 In this repository, I am going to retrive all of the fields tagged to that particular tweet.
 3. Post retrival, I am writing it into a csv after parsing the data into the required format.
 
+Happy Coding,
+Sindhu.
+
