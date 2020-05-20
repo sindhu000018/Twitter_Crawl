@@ -1,6 +1,7 @@
 !pip install twitter_scraper
 import pandas as pd
 from datetime import datetime, timedelta
+from twitter_scraper import get_tweets
 
 tweet_data = []
 duration = datetime.today() - timedelta(days=7)
